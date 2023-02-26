@@ -1,0 +1,7 @@
+Add-migration InitialCreate
+
+Update-Database
+
+Nouvel attribut =>Add-Migration AddBlog******
+*********************************************
+*********************************************
